@@ -1,0 +1,15 @@
+{
+    "server": {
+        "port": 10005,
+        "jwt_key": "b1E8641KXEpgX5vmwLAMzi9FuTwXBpNTdNzrHPwJ",
+        "session_length": 31536000
+    },
+    "db": {
+        "host": "cluster0.kbui4.mongodb.net",
+        "port": 1,
+        "username": "Jana",
+        "password": "Jana123",
+        "dbname": "baza1"
+    }
+    
+}
